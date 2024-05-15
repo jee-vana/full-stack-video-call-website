@@ -73,6 +73,8 @@ The website should now be running at `http://localhost:3000`.
 
 Contributions are welcome! Please follow the [contributing guidelines](.github/CONTRIBUTING.md) when submitting pull requests.
 
+## Thanks to @adrianhajdin
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
