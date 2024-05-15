@@ -5,7 +5,7 @@ import React, { ReactNode } from 'react'
 
 export const metadata: Metadata = {
   title: "Zoomer",
-  description: "Seamlessly join Zoom meetings from your browser",
+  description: "Seamlessly join Zoom like meetings from your browser",
   icons: {
     icon: "/icons/logo.svg",
   }
