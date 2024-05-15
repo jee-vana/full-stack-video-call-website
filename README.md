@@ -1,16 +1,8 @@
 ## Welcome To Full stack Video streaming app
 
 
-
 ## Getting Started
 
-First, run the development server:
-
-```bash
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 # Video Calling Full Stack Website
 
 This repository contains the code for a full-stack video calling website built with Next.js, Tailwind CSS, TypeScript, Clerk for authentication, and integrating Stream and Shadcn for video calling functionality.
@@ -73,7 +65,8 @@ The website should now be running at `http://localhost:3000`.
 
 Contributions are welcome! Please follow the [contributing guidelines](.github/CONTRIBUTING.md) when submitting pull requests.
 
-## Thanks to @adrianhajdin
+## Thanks to Adrian Hajdin - JS Mastery
+@adrianhajdin
 
 ## License
 
